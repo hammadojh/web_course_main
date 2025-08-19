@@ -1,56 +1,84 @@
 # SWE 363: Web Engineering & Development
 
-Welcome to the official repository for **SWE 363: Web Engineering & Development**. This repository contains all the resources you'll need to succeed in the course, including the syllabus, link to material, project description and some useful links.
+Welcome to the official repository for **SWE 363: Web Engineering & Development**. This repository contains all the resources you'll need to succeed in the course.
 
 ## Table of Contents
 - [Course Overview](#course-overview)
 - [Syllabus](#syllabus)
-- [Material](#material)
-- [Project](#project)
-- [Useful links](#links)
-- [How to Use This Repository](#how-to-use-this-repository)
+- [Course Materials](#course-materials)
+- [Assignments](#assignments)
+- [In-Lab Participation](#in-lab-participation)
+- [Term Project](#term-project)
+- [Useful Links](#useful-links)
 
 ## Course Overview
-**SWE 363: Web Engineering & Development** is an undergraduate-level course that provides you with the conceptual and practical knowledge required to develop web applications. The course covers topics such as HTML, CSS, JavaScript, server-side programming, web security, and the latest trends in web development.
+**SWE 363: Web Engineering & Development** is an undergraduate-level course that provides conceptual and practical knowledge for developing web applications. The course covers HTML, CSS, JavaScript, server-side programming, web security, and modern web development trends.
 
 ## Syllabus
-The full course syllabus, including learning objectives, course content, assessment methods, and required materials, is available [here](./syllabus.md).
+The full course syllabus is available [here](./syllabus.md).
 
-## Material
-We will be using "Zybook" as the main resource. There are no slides for this class. Please use the following instructions to join zybook:
-1. Click any ZyBooks assignment link in Blackboard.
-2. Subscribe
+## Course Materials
+This repository serves as the main course reference. All materials are organized in the following structure:
 
-## Project
-A major part of this course is a  project that you (witgh your team) are expected to submit before the end of this semester. The project description including phases, requirements and deliverables are available [here](./term_project.md).
+- **Slides**: PowerPoint presentations for each chapter in the `slides/` directory
+- **Project Guidelines**: Detailed project documentation in `project guidelines/`
+- **Course Documents**: Syllabus, assignments, and participation guidelines
+- **Examples**: Code examples and starter templates
 
-## Useful links
+Navigate through the folders to access all course materials and resources.
+
+## In-Lab Participation
+Hands-on coding demonstrations during class time (10% total grade):
+- 20 demos throughout semester (0.5% each)
+- 30-minute lab sessions with structured activities
+- GitHub practice and version control skills
+- All work must be completed during class time
+
+## Assignments
+TBD
+
+
+
+Detailed guidelines available [here](./in-lab-pasrticipation.md).
+
+## Term Project
+Team-based web application project (25% total grade) with multiple phases:
+- Project proposal and requirements
+- Front-end and back-end implementation
+- Deployment and documentation
+- Final presentation
+
+Complete project description available [here](./term_project.md).
+
+## Useful Links
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 - [CodeCademy](https://www.codecademy.com/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [W3Schools](https://www.w3schools.com/)
 
-# Using an IDE
-During your learning process it is good to disable the autocomplete from any IDE that you are using so that you get the most out of the learning process. Please follow the instruction below in order to disable autocomplete in VSCode. 
+## IDE Setup
+**Disable autocomplete** during learning to maximize understanding:
 
-1. Open **VS Code**.
-2. Press `Ctrl + Shift + P` (Windows/Linux) or `Cmd + Shift + P` (Mac) to open the **Command Palette**.
-3. Search for **"Preferences: Open Settings (JSON)"** and select it.
-4. Add the following settings:
+### VS Code Settings
+1. Open VS Code
+2. Press `Ctrl + Shift + P` (Windows/Linux) or `Cmd + Shift + P` (Mac)
+3. Search for "Preferences: Open Settings (JSON)" and select it
+4. Add these settings:
 
-   ```json
-   {
-     "editor.quickSuggestions": {
-       "other": false,
-       "comments": false,
-       "strings": false
-     },
-     "editor.suggestOnTriggerCharacters": false,
-     "editor.parameterHints.enabled": false
-   }
+```json
+{
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.parameterHints.enabled": false
+}
+```
 
-## How to Use This Repository
-- **Clone the Repository**: Use `git clone [repository link]` to download the repository to your local machine.
-- **Navigate the Directories**: Explore the folders to access slides, activities, videos, and papers.
-- **Stay Updated**: Pull the latest changes regularly to ensure you have the most recent resources.
+## Getting Started
+1. **Clone**: `git clone [repository link]`
+2. **Explore**: Navigate folders for course materials
+3. **Stay Updated**: Pull latest changes regularly
 

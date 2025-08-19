@@ -6,12 +6,9 @@ This course is designed to provide you with the conceptual and practical knowled
 ### Class Details
 | Section | Time            | Days | Venue | Instructor  |
 |---------|-----------------|------|--------|------------|
-| 01      | 8:00 – 9:15     | MW   | 22-127 | Dr. Omar       |
-| 02      | 9:30 – 10:45    | MW   | 24-178 | Dr. Omar       |
-| 03      | 11:00 – 12:15   | MW   | 24-178 | Dr. Hasan      |
-| 04      | 12:30 – 13:45   | MW   | 24-244 | Dr. Hasan      |
-| F06     | 11:00 – 12:15   | MW   | 22-333 | Dr. Khadijah   |
-| F07     | 12:30 – 13:45   | MW   | 22-333 | Dr. Khadijah   |
+| 01      | 08:00 – 09:15   | MW   | 22-334 | Hasan Alkaf         |
+| 03      | 11:00 – 12:15   | UT   | 22-334 | Omar Hammad         |
+| F04     | 11:00 – 12:15   | MW   | 22-334 | Khadijah AlSafwan   |
 
 ### Instructors
 | Professor           | Office | Email                    | Office Hours   |
@@ -21,14 +18,15 @@ This course is designed to provide you with the conceptual and practical knowled
 | Dr. Khadijah Al Safwan| 22-330-1 | khadijah.safwan@kfupm.edu.sa |      MW 9:30-10:30       |
 
 ### How You Will Be Assessed
-- **In-Lab Exercises** 25%
-- **Quizzes:** 5%
+- **In-Lab Participation** 10%
+- **Assignments** 8%
+- **Quizzes:** 12%
 - **Mid-term:** 20%
 - **Project:** 25%
 - **Final:** 25%
 
 ### How to Get the Most Out of This Class
-- Watch the videos before coming to class.
+- Come prepared to class.
 - Always be on time (for class and assignment deadlines).
 - Practice, practice, and practice.
 - Pay attention to Blackboard & This repo.
@@ -45,23 +43,26 @@ After completing this course, you should be able to:
 |Week|Topic|
 |-----|------|
 | 1  | Introduction to Web Programming |
-| 2  | HTML Fundamentals | 
-| 3  | HTML Advanced |
-| 4  | CSS Fundamentals + CSS Advanced |
-| 5  | Mobile Web Development |
-| 6  | JavaScript Fundamentals |
-| 7  | JavaScript in the Browser |
-| 8  | JavaScript Advanced Concepts |
-| 9,10  | JavaScript React |
-| 11 | Full-Stack Development Fundamentals|
-| 12 | Full-Stack Development (Data) |
-| 13,14 | Full-Stack Development Advanced Concepts |
+| 2  | HTML  | 
+| 3  | CSS |
+| 4  | JavaScript |
+| 5  | Hands-on + Quiz |
+| 6-8 | Interactive Front-End (React) |
+| 9  | Hands-on + Quiz |
+| 10 | Back-end Development Fundamentals|
+| 11 | Back-End Nodejs & Express |
+| 12 | MongoDB |
+| 13 | Web Security |
+| 14 | Hands-on + Quiz |
+| 15 | Exam Review & Presentations |
 
 ### Reference Materials
-- Videos 
-- www.zybooks.com
+- This repository  
 - Resources referred to during class
 - Demos presented during class 
+
+### Communication
+- We will be using [Slack](https://join.slack.com/t/webengineeringkfupm/shared_invite/zt-3bk4ixthv-8UTgDXU5zLCGW8d~gNpv8g) as our virtual communication tool. [Join the workspace now](https://join.slack.com/t/webengineeringkfupm/shared_invite/zt-3bk4ixthv-8UTgDXU5zLCGW8d~gNpv8g) using your KFUPM email. 
 
 ### Course Policies & Guidelines
 - **Attendance:** Regular attendance is a university requirement. Attendance will be checked at the beginning of each class. Two late arrivals will be considered as one absence. More than 6 unexcused absences will result in a DN grade.
