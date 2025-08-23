@@ -21,8 +21,8 @@ A simple "Hello World" web application featuring:
 
 1. Clone the project repository:
    ```bash
-   git clone [REPOSITORY_URL]
-   cd [PROJECT_FOLDER]
+   git clone https://github.com/Web-Engineering-KFUPM/web_course_main
+   cd demos/Chapter\ 1/1.1\ hello\ web/
    ```
 
 ## Step 2: Install Dependencies
