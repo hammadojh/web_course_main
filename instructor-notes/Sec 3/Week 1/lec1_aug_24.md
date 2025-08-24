@@ -20,7 +20,8 @@ style: |
     section.activity { background: var(--accent); color:var(--background)}
     section.activity h1,section.activity h2, section.activity h3, section.activity h4, section.activity h5 { color: var(--background) }
     section.activity footer { display: none; }
-    section.activity blockquote {display:inline-block; border: 4px solid black; color: white; border-radius: 10px; background-color:var(--background)}
+    section.activity blockquote {display:inline-block; border: 4px solid black; color: white; border-radius: 10px; 
+    background-color:var(--background)}
     section.demo { background: var(--sedondary); color:var(--foreground)}
     section.demo h1,section.demo h2, section.demo h3, section.demo h4, section.demo h5 { color: var(--foreground) }
     section.demo footer { display: none; }
@@ -85,6 +86,7 @@ Before we start let's get to know you ..
 - Name, Major 
 - What do you know about Web Development?
 
+
 ---
 
 <!-- Here -->
@@ -118,7 +120,7 @@ So ..
 
 <!-- And What is the story behine it -->
 
-# What makes the Web possible?
+# What technologies makes the web possible?
 
 ---
 
@@ -193,8 +195,10 @@ A web application is a software application that runs on a **web server** and is
 
 > Activty ~10m
 
-# Going over Github 
-- Go to: https://github.com/Web-Engineering-KFUPM/web_course_main
+# Going over our repository in Github 
+- Go to 
+# **github.com/Web-Engineering-KFUPM/web_course_main**
+- Star the repository
 - Explore the repository 
 - Read the syllabus 
 - Ask questions 
@@ -205,7 +209,7 @@ A web application is a software application that runs on a **web server** and is
 
 > Demo ~30m
 # Building a real web app
-- Go to Gihub xxxxx
+- Go to our repo (also found in BB)
 - Clone the project 
 - Run the starter 
 - Complete the code 
