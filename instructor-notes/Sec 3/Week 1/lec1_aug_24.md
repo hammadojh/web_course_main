@@ -22,6 +22,11 @@ style: |
     section.activity footer { display: none; }
     section.activity blockquote {display:inline-block; border: 4px solid black; color: white; border-radius: 10px; 
     background-color:var(--background)}
+    section.activity a {
+        color: var(--background);
+        text-decoration: underline;
+        font-weight: bold;
+    }
     section.demo { background: var(--sedondary); color:var(--foreground)}
     section.demo h1,section.demo h2, section.demo h3, section.demo h4, section.demo h5 { color: var(--foreground) }
     section.demo footer { display: none; }
@@ -89,7 +94,7 @@ Before we start let's get to know you ..
 
 ---
 
-<!-- Here -->
+<!-- These are the course learning outcomes .. -->
 
 # Course Learning Outcomes:
 By the end of this course you will be able to :
@@ -102,6 +107,8 @@ By the end of this course you will be able to :
 
 ---
 
+
+<!-- So what is the web? or the world wide web -->
 
 So .. 
 # What is the web?
@@ -118,15 +125,16 @@ So ..
 
 ---
 
-<!-- And What is the story behine it -->
+<!-- Ok what technologies make the web possible? -->
 
 # What technologies makes the web possible?
 
 ---
 
 <!-- _class: boxes -->
+ 
 
-# Core Components of the web
+# What technologies makes the web possible?
 - Internet
 - HTTP 
 - Servers 
@@ -156,7 +164,7 @@ URLs: Uniform Resource Locators, the addresses used to access resources on the i
 
 ---
 
-<!-- And What is the story behine it -->
+<!-- This is a simple architecture of the web -->
 
 # What makes a web application?
 A web application is a software application that runs on a **web server** and is accessed through a **web client**. 
@@ -195,9 +203,8 @@ A web application is a software application that runs on a **web server** and is
 
 > Activty ~10m
 
-# Going over our repository in Github 
-- Go to 
-# **github.com/Web-Engineering-KFUPM/web_course_main**
+## github.com/Web-Engineering-KFUPM/web_course_main
+- visit the link
 - Star the repository
 - Explore the repository 
 - Read the syllabus 
