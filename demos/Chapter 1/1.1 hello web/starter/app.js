@@ -17,13 +17,13 @@ app.get('/', (req, res) => {
 });
 
 // Define the API route that prints hello Omar
-app.get('/api/hello-omar', (req, res) => {
-    console.log('hello Omar');
-    res.json({ message: 'hello Omar' });
+app.get('/api/x', (req, res) => {
+    console.log('hello X');
+    res.json({ message: 'hello X' });
 });
 
 // Run the app
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
-    console.log('Click the button on the webpage to see "hello Omar" printed in the server console!');
+    console.log('Click the button on the webpage to see "hello X" printed in the server console!');
 });
