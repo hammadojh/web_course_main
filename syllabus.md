@@ -15,7 +15,7 @@ This course is designed to provide you with the conceptual and practical knowled
 |---------------------|--------|--------------------------|----------------|
 | Dr. Omar Hammad     | 22-329 | omarjh@kfupm.edu.sa      |      MW 12:30-1:30       |
 | Dr. Hasan Al-Kaf    | 22-147 | hassan.alkaf@kfupm.edu.sa |      TBA              |
-| Dr. Khadijah Al Safwan| 22-330-1 | khadijah.safwan@kfupm.edu.sa |      MW 9:30-10:30       |
+| Dr. Khadijah Al Safwan| 22-330-1 | khadijah.safwan@kfupm.edu.sa |      MW 1:00-2:00       |
 
 ### How You Will Be Assessed
 - **In-Lab Participation** 10%
